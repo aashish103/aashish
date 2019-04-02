@@ -14,7 +14,7 @@ while(n>0)
    n=n/10;
 }
    
- printf("Reverse Number:"s);
+ printf("Reverse Number:%d",s);
  return 0;
 }
  
